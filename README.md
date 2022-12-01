@@ -2,6 +2,9 @@
 
 This repository contains several methods for sound event classification, and it is done during a remote internship at SCSE laboratory, Nanyang Technological University, under surveilliance of Prof.Chng Eng Siong.
 
+## Organization
+* models
+* utils
 
 
 ## Acknowledgement
