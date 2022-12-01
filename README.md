@@ -2,7 +2,7 @@
 
 This repository contains several methods for sound event classification, and it is done during a remote internship at SCSE laboratory, Nanyang Technological University, under surveilliance of Prof.Chng Eng Siong.
 
-Thanks to 
+
 
 ## Acknowledgement
   I am grateful to all those who helped me during this project. I would like to express my gratitude to Andrew, a phD at Nanyang Technological University, who gave me instruction and kind encouragement.
